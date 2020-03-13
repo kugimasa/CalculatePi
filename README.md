@@ -13,4 +13,4 @@ You'll get the calclutated **π(Pi)** using the random numbers.
 Monte Carlo Method
 
 ## Implementation
-- C++
+- C++11
